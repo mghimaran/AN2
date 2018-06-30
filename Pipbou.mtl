@@ -1,0 +1,313 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+
+newmtl Material.00005c
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyInterior01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyInterior01_n.dds
+
+newmtl Material.000082
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy01_n.dds
+
+newmtl Material.0000be
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyInterior01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyInterior01_n.dds
+
+newmtl Material.000102
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.00016c
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyInterior01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyInterior01_n.dds
+
+newmtl Material.00019c
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000204
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.0004c8
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000551
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000627
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyInterior01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyInterior01_n.dds
+
+newmtl Material.0007bc
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.0007cc
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy01_n.dds
+
+newmtl Material.0008ec
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy01_n.dds
+
+newmtl Material.0009e1
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy01_n.dds
+
+newmtl Material.000ac9
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000b83
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000bb5
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyGlow01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyGlow01_n.dds
+
+newmtl Material.000bdd
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyGlow01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyGlow01_n.dds
+
+newmtl Material.000be2
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000c01
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy01_n.dds
+
+newmtl Material.000c2b
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000cbf
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\HoloTape01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\HoloTape01_n.dds
+
+newmtl Material.000d7b
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000e21
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.000ea9
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy01_n.dds
+
+newmtl Material.0018ed
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyGlow01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyGlow01_n.dds
+
+newmtl Material.001915
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyScreen_d.dds
+map_Kn Textures\Shared\FlatFlat_n.dds
+
+newmtl Material.001b06
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy02_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy02_n.dds
+
+newmtl Material.001c3e
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyGlow01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyGlow01_n.dds
+
+newmtl Material.001c91
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyLabels01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyLabels01_n.dds
+
+newmtl Material.001cb5
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyInterior01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyInterior01_n.dds
+
+newmtl Material.001e64
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\HoloTape01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\HoloTape01_n.dds
+
+newmtl Material.001ee8
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoy01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoy01_n.dds
+
+newmtl Material.001fb8
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd Textures\AnimObjects\PipBoy\PipBoyScreenDust01_d.dds
+map_Kn Textures\AnimObjects\PipBoy\PipBoyScreen_n.dds
